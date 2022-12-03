@@ -1,0 +1,80 @@
+@media (max-width: 1440px){
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px){
+
+}
+@media (max-width: 1024px){
+    .header-nav a {
+         display: none;
+ }
+    .header-nav {
+        width: 773px;
+    }
+    .img {
+        width: 340px;
+        top: 312px;
+    }
+    .image {
+        top: 246px;
+        left: 540px;
+        width: 433px;
+    }
+    .header-title h2 {
+        font-size: 30px;
+    }
+    .header-title p {
+        font-size: 22px;
+    }
+    .hero-nav p {
+        text-align: center;
+        font-size: 19px;
+    }
+    .ion {
+        left: 54px;
+    }
+    .icon {
+        left: 71px;
+    }
+    .hero-left p {
+        font-size: 16px;
+    }
+    .hero-right p {
+        font-size: 16px;
+    }
+    .images {
+        width: 548px;
+        top: 1416px;
+    }
+    .mages {
+        width: 515px;
+        left: 508px;
+        top: 1409px;
+    }
+    /*.button {*/
+    /*    top: 1500px;*/
+    /*}*/
+}
+@media (max-width: 992px){
+
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 576px){
+
+}
+@media (max-width: 451px){
+
+}
+@media (max-width: 400px){
+
+}
+@media (max-width: 376px){
+
+}
+@media (max-width: 320px){
+
+}
